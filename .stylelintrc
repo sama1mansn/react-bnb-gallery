@@ -13,7 +13,7 @@
           "warn",
           "error",
           "if",
-          "else",
+          "else",   "ignoreAtRules": [
           "for",
           "each",
           "while",
